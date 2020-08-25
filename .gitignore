@@ -28,4 +28,8 @@
 *.app
 
 /OPTS.h
-/FSM2
+/model_runs/Sod_1314/FSM2
+/model_runs/Sod_1314/Sod_1314_ave
+/model_runs/Sod_1314/Sod_1314_dump
+/model_runs/Sod_1314/Sod_1314_runinfo
+/model_runs/Sod_1314/Sod_1314_smp
