@@ -1,0 +1,23 @@
+&gridpnts
+/
+&gridlevs
+/
+&drive
+  met_file = 'met_IMPRINT.txt'
+  dt = 10800
+  zT = 2
+  zU = 10
+/
+&params
+/
+&maps
+  hcan = 0
+  VAI = 0
+/
+&initial
+/
+&outputs
+  Nave = 8
+  Nsmp = 3
+  runid = 'IMPRINT_'
+/
